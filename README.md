@@ -11,6 +11,8 @@ Here's an explanation of how the app works and its key features:
    - **Rectangle**: Users can draw rectangles on the canvas.
    - **Circle**: This tool lets users draw circles.
    - **Triangle**: Users can draw triangles.
+   - **Line**: For drawing a straight line.
+   - **Random Draw**: For drawing irregular shapes.
 
 3. **Options**: The app provides various options to customize the drawing experience. These options include:
    - **Brush Size**: Users can adjust the size of the brush or line they draw using a slider.
