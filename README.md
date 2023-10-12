@@ -5,7 +5,7 @@ Here's an explanation of how the app works and its key features:
 
 1. **Canvas**: The app provides a canvas element where users can draw. This canvas is essentially an HTML element that acts as a drawing surface.
 
-2. **Tools**: Users can select different drawing tools from a set of options. The available tools in your app include:
+2. **Tools**: Users can select different drawing tools from a set of options. The available tools in the app include:
    - **Brush**: This tool allows users to draw freehand lines or shapes using a brush-like stroke.
    - **Eraser**: The eraser tool acts like a brush but erases the content on the canvas.
    - **Rectangle**: Users can draw rectangles on the canvas.
