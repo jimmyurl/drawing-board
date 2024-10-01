@@ -110,7 +110,7 @@ clearCanvas.addEventListener("click", () => {
 
 saveImg.addEventListener("click", () => {
     if (!hasDrawn) { // Prevent saving if nothing has been drawn
-        alert("You cannot save an empty image!");
+        alert("You cannot save an empty board!");
         return;
     }
     const link = document.createElement("a");
